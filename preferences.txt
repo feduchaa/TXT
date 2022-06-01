@@ -1,0 +1,7 @@
+Preferences:
+ Favorite movie: "Harry Potter and the Prisoner of Azkaban"
+ Favorite TV-Series: "Hannibal"
+ Favorite meal:cheesebureger
+ Favorite season: autumn in Erevan
+ Country I'd like to visit: Iseland
+
